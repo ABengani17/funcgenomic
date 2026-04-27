@@ -3,14 +3,17 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "crop-host-atlas"
-version = "0.1.0"
-description = "Small prototype for ranking crop-pathogen host dependency targets."
+name = "funcgenomic"
+version = "0.2.0"
+description = "Functional convergence atlas and ranker for crop pathogen host dependency targets."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
   { name = "Aakarsh Bengani" }
 ]
+
+[project.scripts]
+funcgenomic = "funcgenomic.__main__:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

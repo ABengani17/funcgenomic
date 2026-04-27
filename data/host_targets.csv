@@ -1,0 +1,15 @@
+crop,pathogen,pathogen_class,host_target,host_process,evidence_score,breadth_classes,tractability_score,deployability_score,fitness_risk,structural_novelty_flag,primary_reference
+rice,Xanthomonas oryzae pv. oryzae,bacterium,SWEET11/13/14 promoter axis,SWEET sucrose efflux,4.8,2,4.7,4.0,1.4,0,Oliva 2019 Nat Biotech
+rice,Magnaporthe oryzae,fungus,RBL1 CDP-DAG synthase,phospholipid metabolism,4.4,1,3.9,3.7,2.2,0,Sha 2023 Nature
+rice,multiple,mixed,SnRK1beta1A,SnRK1 metabolic gate,4.1,2,3.8,3.5,2.0,0,Wang 2024 Nature
+rice,rice tungro virus,virus,eIF(iso)4G,eIF4E translation initiation,3.9,3,3.6,3.6,1.8,0,Lee 2010
+tomato,tomato leaf curl virus,virus,L10 and trafficking module,translation and trafficking,3.6,1,3.0,3.4,1.9,0,Wang 2017
+tomato,Pseudomonas syringae,bacterium,SlBAK1,coreceptor immune signalling,3.7,2,3.4,3.0,2.8,0,Chinchilla 2007
+tomato,Phytophthora infestans,oomycete,SlDMR6,DMR6 salicylate hub,4.0,2,3.8,3.5,1.6,0,Thomazella 2021 PNAS
+brassica,Plasmodiophora brassicae,protist,GSL5 callose synthase,callose deposition,3.9,1,4.1,3.8,1.3,0,Chen 2023
+wheat,Blumeria graminis f. sp. tritici,fungus,TaMLO-A1/B1/D1,MLO susceptibility,4.5,2,4.0,3.9,1.5,0,Li 2022 Nature
+wheat,Fusarium graminearum,fungus,TaHRC,FHB1 histidine rich,3.5,1,3.2,3.3,2.1,0,Su 2019
+banana,Fusarium oxysporum f. sp. cubense TR4,fungus,RGA2,NLR axis,3.7,1,2.9,3.0,1.8,0,Dale 2017
+cassava,cassava brown streak virus,virus,eIF4E,eIF4E translation initiation,4.3,3,3.7,3.6,1.7,0,Gomez 2019
+potato,Phytophthora infestans,oomycete,StDMR6-1,DMR6 salicylate hub,4.0,2,3.7,3.5,1.6,0,Kieu 2021
+maize,Bipolaris maydis,fungus,ZmCCT,flowering and immune crosstalk,3.2,1,2.9,3.1,2.6,1,Su 2021

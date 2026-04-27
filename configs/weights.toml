@@ -1,0 +1,11 @@
+# Convergence score weights.
+# Edit these and rerun the ranker to see how the ordering shifts.
+# All five weights together sum to 1.0 by convention but the code does
+# not enforce that. The fitness_risk weight is subtracted, the rest are
+# added.
+
+evidence       = 0.30
+breadth        = 0.30
+tractability   = 0.20
+deployability  = 0.15
+fitness_risk   = 0.10

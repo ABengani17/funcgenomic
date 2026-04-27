@@ -1,0 +1,24 @@
+pathogen,pathogen_class,effector_family,host_module,evidence,note
+Xanthomonas oryzae,bacterium,TAL effectors PthXo1/2/3 AvrXa7,SWEET sucrose efflux,strong,direct promoter binding induces SWEET expression
+Xanthomonas axonopodis,bacterium,TAL effectors,SWEET sucrose efflux,strong,cassava SWEET10a induced by TAL20
+Magnaporthe oryzae,fungus,Bas effectors,SWEET sucrose efflux,medium,sucrose hijack at biotrophic interface
+Phytophthora sojae,oomycete,RxLR effectors,SWEET sucrose efflux,medium,carbon sink rerouting in soybean
+powdery mildew Bgh,fungus,CSEP class effectors,MLO susceptibility,strong,MLO loss confers durable resistance across cereals
+Phytophthora infestans,oomycete,RxLR AVR3a Pi04314,DMR6 salicylate hub,strong,suppress salicylate based defense
+Hyaloperonospora arabidopsidis,oomycete,Hpa RxLRs,DMR6 salicylate hub,strong,DMR6 loss rescues resistance
+Pseudomonas syringae,bacterium,coronatine,DMR6 salicylate hub,medium,salicylate antagonism via jasmonate mimicry
+Erysiphe necator,fungus,CSEP family,DMR6 salicylate hub,medium,grape DMR6 loss reduces susceptibility
+Pseudomonas syringae,bacterium,AvrPto AvrPtoB,coreceptor immune signalling,strong,bind BAK1 and FLS2
+Magnaporthe oryzae,fungus,Slp1 Avr-Pia,coreceptor immune signalling,medium,interfere with chitin and pattern recognition
+Phytophthora infestans,oomycete,SNE1 Pi-INF1 region,coreceptor immune signalling,medium,suppress PTI at receptor layer
+Tomato leaf curl virus,virus,V2 silencing suppressor,translation and trafficking,medium,co-opts host RNA silencing and ribosomal proteins
+Cassava brown streak virus,virus,VPg,eIF4E translation initiation,strong,direct VPg eIF4E binding required for replication
+Rice tungro virus,virus,VPg analogue,eIF4E translation initiation,strong,recessive resistance via eIF(iso)4G
+Pepper veinal mottle virus,virus,VPg,eIF4E translation initiation,strong,potyvirus VPg eIF4E interaction
+Plasmodiophora brassicae,protist,SCR effectors,callose deposition,medium,manipulate callose at plasmodesmata
+Phytophthora infestans,oomycete,RxLR effectors,callose deposition,medium,suppress callose at haustorial neck
+Fusarium graminearum,fungus,trichothecene mycotoxins,FHB1 histidine rich,strong,DON detoxification gates susceptibility
+Magnaporthe oryzae,fungus,Avr-Pi9 BAS family,SnRK1 metabolic gate,medium,reroute carbon allocation during biotrophy
+Pseudomonas syringae,bacterium,HopM1 effector,SnRK1 metabolic gate,medium,degrade AtMIN7 metabolic adapter
+Phytophthora infestans,oomycete,RxLR Pi17316,phospholipid metabolism,medium,target host lipid biosynthesis
+Magnaporthe oryzae,fungus,Avr effectors,phospholipid metabolism,strong,RBL1 CDP-DAG synthase loss confers broad resistance
