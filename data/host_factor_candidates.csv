@@ -1,0 +1,6 @@
+crop,pathogen,host_target,pathogen_class,evidence_score,breadth_score,tractability_score,deployability_score,fitness_risk
+rice,Xanthomonas oryzae pv. oryzae,SWEET promoter axis,bacterium,4.8,4.5,4.7,4.0,1.4
+rice,Magnaporthe oryzae,RBL1 phospholipid pathway,fungus,4.4,4.6,3.9,3.7,2.2
+rice,multiple pathogens,SnRK1beta1A immune-metabolic node,mixed,4.1,4.8,3.8,3.5,2.0
+tomato,Tomato leaf curl virus,translation and trafficking dependency module,virus,3.6,3.9,3.0,3.4,1.9
+brassica,Plasmodiophora brassicae,GSL5 susceptibility axis,protist,3.9,4.2,4.1,3.8,1.3
